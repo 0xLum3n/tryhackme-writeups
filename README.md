@@ -5,7 +5,7 @@ This repository contains my TryHackMe journey, including machine writeups & Adve
 ## Sections
 - Writeups (Easy → Insane)
 - Advent of Cyber
-- 
+ 
 ## Skills Practiced
 - Reconnaissance
 - Enumeration
